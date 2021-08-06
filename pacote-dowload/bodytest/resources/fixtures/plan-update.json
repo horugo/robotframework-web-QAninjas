@@ -1,0 +1,15 @@
+{
+    "before": {
+        "title": "Godzilla",
+        "duration": 6,
+        "price": 9.99,
+        "days": 182
+    },
+    "after": {
+        "title": "King Ghidorah",
+        "duration": 12,
+        "price": 19.99,
+        "days": 365
+    }
+}
+
